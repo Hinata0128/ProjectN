@@ -33,7 +33,8 @@ void StaticMeshManager::Create()
 		{ static_cast<int>(CMeshList::Ground),			_T("Data\\Mesh\\Static\\Ground\\ground.x") },
 		{ static_cast<int>(CMeshList::SphereCollision),	_T("Data\\Mesh\\Static\\Collision\\Sphere.x") },
 		{ static_cast<int>(CMeshList::EnemyBullet),		_T("Data\\Mesh\\Static\\Bullet\\EnemyBullet.x") },
-		{ static_cast<int>(CMeshList::BoxCollision),	_T("Data\\Mesh\\Static\\Collision\\Box.x")}
+		{ static_cast<int>(CMeshList::BoxCollision),	_T("Data\\Mesh\\Static\\Collision\\Box.x")},
+		{ static_cast<int>(CMeshList::Portal),			_T("Data\\Mesh\\Static\\Portal\\Portal.x")},
 	};
 
 	//”z—ñ‚Ì—v‘f”‚ğæ“¾.

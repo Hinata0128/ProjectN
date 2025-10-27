@@ -4,7 +4,6 @@
 Ground::Ground()
 {
 	AttachMesh(*StaticMeshManager::GetInstance()->GetMeshInstance(StaticMeshManager::CMeshList::Ground));
-
 }
 
 Ground::~Ground()

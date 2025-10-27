@@ -17,6 +17,7 @@ public:
 		SphereCollision,	//球の当たり判定.
 		EnemyBullet,		//敵の弾.
 		BoxCollision,		//ボックスの当たり判定.
+		Portal,				//ポータル.
 
 		Max,
 	};

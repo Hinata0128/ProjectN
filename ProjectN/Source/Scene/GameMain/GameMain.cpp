@@ -9,7 +9,9 @@
 #include "System/00_Manager/02_PShotManager/PShotManager.h"
 #include "System/00_Manager/04_EnemyNomalShotManager/EnemyNomalShotManager.h"
 #include "System/00_Manager/06_CollisionManager/CollisionManager.h" 
-#include "GameObject//SkinMeshObject//Character//Player//Player.h" 
+#include "GameObject//SkinMeshObject//Character//Player//Player.h"
+
+#include "GameObject//StaticMeshObject//Portal//Portal.h"
 
 GameMain::GameMain()
 	: CSceneBase()

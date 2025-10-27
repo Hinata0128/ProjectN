@@ -16,6 +16,7 @@
 #include "Sprite3D//Sprite3D.h"
 
 class Timer;
+class Portal;
 
 
 /*********************************************

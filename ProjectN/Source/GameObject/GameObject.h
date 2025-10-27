@@ -62,6 +62,11 @@ public:
 		m_vScale = D3DXVECTOR3(xyz, xyz, xyz);
 	}
 
+	void SetScale(const D3DXVECTOR3& TargetScale)
+	{
+		m_vScale = TargetScale;
+	}
+
 	//ägèkéÊìæä÷êî.
 	const D3DXVECTOR3& GetScale() const {
 		return m_vScale;
